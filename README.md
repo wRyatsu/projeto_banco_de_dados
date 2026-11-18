@@ -1,5 +1,28 @@
 # db_ensalamento: Banco de Dados do Sistema de Ensalamento Acadêmico
 
+## Entrega e equipe
+
+**Data de entrega:** 19/11/2026 · Faculdade de Tecnologia do SENAC (FATESE) · Prof. Carlos Bruno Oliveira Lopes
+
+| Equipe | Modelo | Integrantes |
+| --- | --- | --- |
+| Equipe 1 | Conceitual (DER no brModelo) | Rickson (líder), Ryan Façanha, Francisco Emanuel, Taquita, Emanuel |
+| Equipe 2 | Lógico (tabelas, PK e FK) | Matheus (líder), Tiago, Sara, Emanuelly, Sabrina, Letícia |
+| Equipe 3 | Físico (SQL no PostgreSQL) | Victor (líder), Diego, Hatus, Cleyton, Danielly |
+
+Divisão de tarefas: [`EQUIPES.md`](EQUIPES.md).
+
+## Relatórios
+
+| Arquivo | Conteúdo |
+| --- | --- |
+| [`relatorios/Relatorio_1_Modelo_Conceitual.docx`](relatorios/Relatorio_1_Modelo_Conceitual.docx) | Introdução, entidades, cardinalidades, regras e DER |
+| [`relatorios/Relatorio_2_Modelo_Logico.docx`](relatorios/Relatorio_2_Modelo_Logico.docx) | Esquema relacional, PK/FK, resolução do N:N |
+| [`relatorios/Relatorio_3_Modelo_Fisico.docx`](relatorios/Relatorio_3_Modelo_Fisico.docx) | DDL, DML, 10 consultas com prints, testes, dificuldades, melhorias e conclusão |
+
+Modelo lógico em texto: [`docs/modelo_logico.md`](docs/modelo_logico.md).
+
+
 Projeto da disciplina de Banco de Dados (FATESE / ADS). Ele substitui a planilha manual de ensalamento por um banco **PostgreSQL** que **impede no próprio banco** os erros clássicos do início do semestre:
 
 | Problema da planilha | Como o banco impede |
