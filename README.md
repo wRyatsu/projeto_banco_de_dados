@@ -19,6 +19,7 @@ Divisão de tarefas: [`EQUIPES.md`](EQUIPES.md).
 | Ryan Façanha | [@wRyatsu](https://github.com/wRyatsu) |
 | Matheus | [@Matheus1357](https://github.com/Matheus1357) |
 | Sara | [@sara2003s](https://github.com/sara2003s) |
+| Taquita | [@ltaquita](https://github.com/ltaquita) |
 
 ## Relatórios
 
