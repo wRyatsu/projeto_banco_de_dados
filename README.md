@@ -20,6 +20,8 @@ Divisão de tarefas: [`EQUIPES.md`](EQUIPES.md).
 | Matheus | [@Matheus1357](https://github.com/Matheus1357) |
 | Sara | [@sara2003s](https://github.com/sara2003s) |
 | Taquita | [@ltaquita](https://github.com/ltaquita) |
+| Emanuelly | [@manuellybraga696-spec](https://github.com/manuellybraga696-spec) |
+| Tiago | [@tdaptdap1](https://github.com/tdaptdap1) |
 
 ## Relatórios
 
