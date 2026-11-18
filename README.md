@@ -22,6 +22,8 @@ Divisão de tarefas: [`EQUIPES.md`](EQUIPES.md).
 | Taquita | [@ltaquita](https://github.com/ltaquita) |
 | Emanuelly | [@manuellybraga696-spec](https://github.com/manuellybraga696-spec) |
 | Tiago | [@tdaptdap1](https://github.com/tdaptdap1) |
+| Danielly | [@Danegio](https://github.com/Danegio) |
+| Emanuel | [@EmanuelTorresMarques](https://github.com/EmanuelTorresMarques) |
 
 ## Relatórios
 
