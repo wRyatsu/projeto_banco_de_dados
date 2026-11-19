@@ -24,6 +24,10 @@ Divisão de tarefas: [`EQUIPES.md`](EQUIPES.md).
 | Tiago | [@tdaptdap1](https://github.com/tdaptdap1) |
 | Danielly | [@Danegio](https://github.com/Danegio) |
 | Emanuel | [@EmanuelTorresMarques](https://github.com/EmanuelTorresMarques) |
+| Francisco Emanuel | [@EmanuelBraga456](https://github.com/EmanuelBraga456) |
+| Diego | [@Diego0004](https://github.com/Diego0004) |
+| Hatus | [@HatusFelicio](https://github.com/HatusFelicio) |
+| Cleyton | [@cleytoncruz8787](https://github.com/cleytoncruz8787) |
 
 ## Relatórios
 
